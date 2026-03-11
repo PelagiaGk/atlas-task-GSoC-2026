@@ -1,0 +1,19 @@
+# Virtual Environments
+.venv/
+atlas.venv/
+linux_env/
+env/
+venv/
+ENV/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# prmon build artifacts (if you have them in the root)
+prmon/build/
