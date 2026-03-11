@@ -1,19 +1,41 @@
-# Virtual Environments
-.venv/
-atlas.venv/
-linux_env/
-env/
-venv/
-ENV/
-
-# Python cache
-**/__pycache__/
+# python
+__pycache__/
 *.py[cod]
 *$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 
-# OS generated files
+#venv
+atlas.venv/
+atlas_final_env/
+final_env/
+my_new_env/
+.venv/
+venv/
+
+# prmon Outputs & Data 
+prmon.log
+prmon.json
+data/*.txt
+data/*.json
+
+# vs code
+.vscode/
 .DS_Store
 Thumbs.db
-
-# prmon build artifacts (if you have them in the root)
-prmon/build/
