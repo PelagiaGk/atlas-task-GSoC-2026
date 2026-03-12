@@ -4,6 +4,8 @@
   
 <h1>Overview</h1>
 <p>The goal is to use the prmon tool to monitor processes and detect anomalous behavior automatically.</p>
+<h2>Part 0) prmon </h2>
+<p>Follow the nessecary instructions shown in the prmon repo: https://github.com/HSF/prmon to clone and build the program. </p>
 <h2>Part 1) Data Generation</h2>
 <p><h3>Generate the baseline performance dataset:</h3></p>
     <h4>Command, where we have a stable 100mb memory footprint:</h4>
