@@ -31,7 +31,10 @@
   Assisted in diagnosing an externally-managed-environment restriction that appeared whilst trying to install all needed packages for the implementation of the .py code.
 </li>
 <li>
-    Assisted in the documentation proccess by structuring the initial format, where the report was much more technical.
+  Assisted in the documentation proccess by structuring the initial format, where the report was much more technical.
+</li>
+<li>
+  Assisted in minimizing the time needed for .txt file documentation and .gitignore structure, leaving only the proofreading as task.
 </li>
 </body>
 </html>
